@@ -17,7 +17,7 @@ title: Ruby Hive
 email: gvpmahesh@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My journey with "non typical" things in ruby/rails
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/rubyhive" # the subpath of your site, e.g. /blog
 url: "https://vamsipavanmahesh.github.io/rubyhive" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gvpmahesh
 github_username:  vamsipavanmahesh
