@@ -2,7 +2,7 @@
 layout: post
 title:  "First post"
 date:   2017-10-16 14:14:06 +0530
-categories: jekyll update
+categories: about
 ---
 
 Hi All, this is Vamsi from Bangalore. I have been working on rails for the past 2 years. I am so excited to do this blog post, as it will be my first blog post using jekyll platform.
