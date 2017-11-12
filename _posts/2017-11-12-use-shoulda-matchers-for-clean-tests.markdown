@@ -7,7 +7,7 @@ categories: rspec
 
 This article about comparing how tests are easier to read, when you use shoulda-matchers for testing associations and validations. shoulda-matchers is a nice gem in our toolkit which will help to test fairly trivial things, which are cumbersome to write in plain RSpec.
 
-So this code is taken from one of my side projects, where User and Category has a has many through relationship with UserCategory.
+So this code is taken from one of my side projects, where `User` and `Category` models are having a `has many through` relationship with `UserCategory`.
 
 Here is what my model looks like
 
@@ -96,4 +96,4 @@ validations
   is invalid without category
 ```
 
-If you feel that the second one is easier to read and not so cumbersome, consider using shoulda-matchers[https://github.com/thoughtbot/shoulda-matchers] in your project
+If you feel that the second one is easier to read and not so cumbersome, consider using [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) in your project
