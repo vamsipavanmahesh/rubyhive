@@ -96,4 +96,4 @@ validations
   is invalid without category
 ```
 
-If you feel that the second one is easier to read and not so cumbersome, consider using shoudla-matchers in your project
+If you feel that the second one is easier to read and not so cumbersome, consider using shoulda-matchers[https://github.com/thoughtbot/shoulda-matchers] in your project
