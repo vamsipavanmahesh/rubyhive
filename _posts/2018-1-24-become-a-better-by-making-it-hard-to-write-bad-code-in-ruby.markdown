@@ -1,5 +1,3 @@
-# Become a Better Programmer by Making It Hard to Write Bad Code(in ruby)
-
 This is a follow up article to https://blog.daftcode.pl/become-a-better-programmer-by-making-it-hard-to-write-bad-code-d118ab90e0f7, but the OP mentioned the tricks that are applicable in JS. So, I thought I will write something in the same style, but for Ruby :)
 
 ###  Ruby static code analyzer
@@ -34,3 +32,4 @@ An ideal commit should be only making one functional change, describe what is th
 
 You can read more about  from https://chris.beams.io/posts/git-commit/
 
+ps: My contract with Rietta Inc ended recently. I am looking for a fulltime remote job from India in the salary range of $40 k. Please let me know if you or anyone you know is hiring. [Here](https://drive.google.com/file/d/1POWZdVX2smPxd3LPVzCZR2A3O3wO41-R/view) is my resume.
